@@ -1,0 +1,60 @@
+﻿Installing assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Installing service AService...
+Creating EventLog source AService in log Application...
+Rolling back assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Restoring event log to previous state for source AService.
+Installing assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Installing service AService...
+Creating EventLog source AService in log Application...
+Rolling back assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Restoring event log to previous state for source AService.
+Installing assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Installing service AService...
+Creating EventLog source AService in log Application...
+Rolling back assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Restoring event log to previous state for source AService.
+Uninstalling assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Removing EventLog source AService.
+Service AService is being removed from the system...
+Service AService was successfully removed from the system.
+Installing assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+Installing service AService...
+Service AService has been successfully installed.
+Creating EventLog source AService in log Application...
+Committing assembly 'C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe

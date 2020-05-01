@@ -1,0 +1,7 @@
+c:\users\sagar\documents\visual studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe
+C:\Users\SAGAR\documents\visual studio 2012\Projects\MyService\MyService\bin\Debug\MyService.exe.config
+C:\Users\SAGAR\documents\visual studio 2012\Projects\MyService\MyService\obj\Debug\MyService.ProjectInstaller.resources
+C:\Users\SAGAR\documents\visual studio 2012\Projects\MyService\MyService\obj\Debug\MyService.csproj.GenerateResource.Cache
+C:\Users\SAGAR\documents\visual studio 2012\Projects\MyService\MyService\obj\Debug\MyService.exe
+C:\Users\SAGAR\documents\visual studio 2012\Projects\MyService\MyService\obj\Debug\MyService.pdb
+C:\Users\SAGAR\documents\visual studio 2012\Projects\MyService\MyService\bin\Debug\MyService.pdb

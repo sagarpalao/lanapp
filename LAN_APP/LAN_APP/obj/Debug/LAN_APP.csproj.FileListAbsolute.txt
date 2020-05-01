@@ -1,0 +1,9 @@
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\bin\Debug\LAN_APP.exe.config
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\bin\Debug\LAN_APP.exe
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\bin\Debug\LAN_APP.pdb
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\obj\Debug\LAN_APP.csprojResolveAssemblyReference.cache
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\obj\Debug\LAN_APP.Properties.Resources.resources
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\obj\Debug\LAN_APP.csproj.GenerateResource.Cache
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\obj\Debug\LAN_APP.exe
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\obj\Debug\LAN_APP.pdb
+c:\users\sagar\documents\visual studio 2012\Projects\LAN_APP\LAN_APP\obj\Debug\LAN_APP.Form1.resources
